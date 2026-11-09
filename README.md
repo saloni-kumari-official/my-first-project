@@ -30,5 +30,5 @@ Estimates are starter values and are calculated again on the server. Review the 
 
 ## GitHub and VS Code
 
-This folder is ready to open in VS Code and initialize as a Git repository. Never commit `.env` or `data/orders.json`. Choose the intended GitHub repository before setting its remote or pushing.
+This project is connected to `saloni-kumari-official/my-first-project` on the `main` branch. Open this folder in VS Code to continue working. Never commit `.env` or `data/orders.json`.
 
